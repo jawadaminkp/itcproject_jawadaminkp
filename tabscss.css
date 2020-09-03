@@ -1,0 +1,22 @@
+a{
+    color: blanchedalmond;
+    text-decoration: none;
+}
+
+a:hover{
+
+    color: rgb(64, 55, 187);
+
+
+}
+.tabsdesigner{
+    background-color:rgba(210, 241, 69, 0.5);
+	font-size:17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 5px;
+	padding:7px;
+    text-align: center;  
+    margin-bottom: -15px;
+    font-weight: 900;
+}
+

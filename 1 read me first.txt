@@ -1,0 +1,25 @@
+Assignment no 3
+Completed by : Jawad Amin
+Submitted to : Sir Usman Wajid
+<ITC LAB>
+
+
+INSTRUCTION
+>the final product ( my e portfolio ) is in the main file here named as main.html
+
+
+>do look for main.html in the given files
+
+
+>open the main.html
+
+
+>welcome to my portfolio
+
+
+Note: Best view in chrom browser and zoom must be 100%
+
+regards:
+Jawad Amin
+BCS - Group B
+IMsciences Peshawar

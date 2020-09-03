@@ -1,0 +1,36 @@
+pre{
+
+    font-size: 80px;
+    color:rgb(79, 17, 85);
+    font-weight: bolder;
+    padding-left: 23px;
+    font-family:
+}
+
+blockquote{
+
+    color: rgba(163, 13, 13, 0.699);
+    font-size: 20px;
+    font-weight: bolder;
+
+
+
+}
+
+h1{
+    color: rgb(248, 163, 6);
+    font-size: 50px;
+    font-family: Bodoni MT Black;
+    padding-top: 35px;
+    padding-left: 40px;
+}
+h2{
+    color: rgb(248, 163, 6);
+    font-size: 50px;
+    font-family : Bodoni MT Black;
+    padding-left: 90px;
+
+
+}
+   
+

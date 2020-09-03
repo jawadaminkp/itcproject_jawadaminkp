@@ -1,0 +1,38 @@
+h1{
+
+    color: rgba(109, 24, 24, 0.411);
+    font-size: 190px;
+    margin-top: 0px;
+    margin-bottom:0px;
+    text-align: center;
+}
+
+a{
+    color: rgb(4, 73, 50);
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+a:hover{
+
+    color: rgb(64, 55, 187);
+}
+.pdf{
+    background-color:rgba(241, 146, 69, 0.377);
+	font-size:17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 5px;
+	padding:7px;
+    text-align: center;  
+    margin-bottom: -15px;
+    font-weight: 900;
+}
+
+
+.padd{
+    padding-top: 20px;
+
+
+}
